@@ -1,11 +1,16 @@
 
 
+
 const About = () => {
+
+
     return (
-        <div>
-            <h2>This is about</h2>
-        </div>
-    );
+
+
+        <h2></h2>
+
+
+    )
 };
 
 export default About;
