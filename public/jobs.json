@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "image": " https://i.ibb.co/0G78K65/64f72cb72658d-image.jpg",
+        "estate_title": "Single-family homes",
+        "description": "Unwind and soak up the sun in this luxurious beachfront villa.",
+        "location": " 100 Park Avenue",
+        "area": " 850 sq ft",
+        "price": " 3500",
+        "facilities": [
+            "Private pool",
+            "Oceanfront view",
+            "Wi-Fi",
+            "Fully equipped kitchen",
+            "BBQ grill"
+        ],
+        "status": "rent",
+        "button": "View Property"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/DDPF68g/bria-woods-The-Trails-At-Culebra-Build-to-rent-homes-suburban-15-MAY23-8.webp",
+        "estate_title": "Townhouses",
+        "description": "Escape the hustle and bustle and relax in this charming mountain cabin.",
+        "location": " 12 Pine Lane",
+        "area": " 700 sq ft",
+        "price": " 2800",
+        "facilities": [
+            "Fireplace",
+            "Mountain view",
+            "Heated floors",
+            "Hot tub",
+            "Fully equipped kitchen",
+            "Hiking trails nearby"
+        ],
+        "status": "rent",
+        "button": "View Property"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/fMZRZ82/things-to-consider-before-moving-to-an-apartment.webp",
+        "estate_title": "Apartments",
+        "description": "Live in the heart of the city in this stylish and modern apartment.",
+        "location": " 5 Lakeside Drive",
+        "area": " 500 sq ft",
+        "price": " 4200",
+        "facilities": [
+            "Rooftop terrace",
+            "City view",
+            "Gymnasium",
+            "Concierge service",
+            "High-speed Wi-Fi",
+            "24-hour security"
+        ],
+        "status": "sale",
+        "button": "View Property"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/y4VrJN9/1-How-to-Set-Up-Your-Home-as-a-Rental-Property.jpg",
+        "estate_title": "Student housing",
+        "description": "Create unforgettable memories in this charming vineyard cottage.",
+        "location": " 20 Ocean Boulevard",
+        "area": " 1500 sq ft",
+        "price": " 3200",
+        "facilities": [
+            "Private patio",
+            "Vineyard view",
+            "Hot tub",
+            "Wine tastings included",
+            "Walking distance to winery",
+            "Romantic atmosphere"
+        ],
+        "status": "rent",
+        "button": "View Property"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/hDbT5dg/JSAInc-Brightview-Danvers-Exterior-View-1200x800-1.jpg",
+        "estate_title": "Senior living communities",
+        "description": "Reconnect with nature in this rustic cabin nestled on a peaceful lake.",
+        "location": " 1 Peak View Drive",
+        "area": " 2000 sq ft",
+        "price": " 2500",
+        "facilities": [
+            "Private dock",
+            "Lake view",
+            "Fire pit",
+            "Fully equipped kitchen",
+            "Fishing boat included",
+            "Hiking trails nearby"
+        ],
+        "status": "rent",
+        "button": "View Property"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/Sw9hQPX/gettyimages-525981286-2000-dac41913bef747e78a797b341dc3708d.webp",
+        "estate_title": "Vacation rental",
+        "description": "Experience ultimate comfort and convenience in this luxurious ski chalet.",
+        "location": " 123 Vineyard Lane",
+        "area": " 600 sq ft",
+        "price": " 5000",
+        "facilities": [
+            "Ski-in/ski-out access",
+            "Mountain view",
+            "Hot tub",
+            "Sauna",
+            "Game room",
+            "Ski storage"
+        ],
+        "status": "sale",
+        "button": "View Property"
+    }
+]
